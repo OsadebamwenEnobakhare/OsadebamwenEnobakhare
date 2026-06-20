@@ -7,13 +7,16 @@ Data Analyst · AI Automation Expert · Healthcare Professional
   and in building intelligent automation workflows that save time and improve decision-making.
   My experience as a Registered Nurse gives me a rare perspective: I understand not just the data, but the real-world systems and people behind it.
 ## Core Competencies
+    **Data Analysis**
   •	Power BI Dashboard Design
-  •	Prompt Engineering
   •	Python for Data Analysis
-  •	AI Workflow Automation
   •	SQL & Data Querying	
-  •	AI-Powered Content Creation
   •	Microsoft Excel
+  •	Statistical Analysis (SPSS)	
+    **AI and Automation**
+  •	Prompt Engineering
+  •	AI Workflow Automation
+  •	AI-Powered Content Creation
   •	Process Optimization
   •	Statistical Analysis (SPSS)	
 ## Education & Certifications
