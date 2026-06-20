@@ -2,7 +2,9 @@
 Data Analyst · AI Automation Expert · Healthcare Professional
 📍 Nigeria · 📧 osadebaenoba@gmail.com · 💼 http://www.linkedin.com/in/osadebamwen-enobakhare
 ## About Me
-	I am a data analyst and AI automation expert with a clinical background in nursing. I specialise in transforming complex healthcare and business datasets into clear, actionable insights  and in building intelligent automation workflows that save time and improve decision-making.
+	I am a data analyst and AI automation expert with a clinical background in nursing. 
+	I specialise in transforming complex healthcare and business datasets into clear, actionable insights
+	and in building intelligent automation workflows that save time and improve decision-making.
   My experience as a Registered Nurse gives me a rare perspective: I understand not just the data, but the real-world systems and people behind it.
 ## Core Competencies
   Power BI Dashboard Design	
